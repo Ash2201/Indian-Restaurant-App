@@ -1,1 +1,3 @@
-"# Indian-Restaurant-App" 
+# Restaurant Website
+
+Build with tailwindcss.
